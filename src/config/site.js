@@ -8,7 +8,7 @@ export const siteConfig = {
 	url: SITE_URL,
 	mail: "Eason.hk975@gmail.com",
 	// resume add your resume file path here: /assets/resume.pdf
-	resume: "https://ricoui.com/",
+	resume: "bswl.qzz.io/",
 	utm: {
 		source: `${SITE_URL}`,
 		medium: "referral",
