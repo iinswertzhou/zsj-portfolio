@@ -2,15 +2,15 @@
 	{
         "id": 1,
 		"name": "Github",
-        "username": "ricocc",
+        "username": "iinswertzhou",
 		"image": "/assets/social/social-github.jpg",
-		"url": "https://github.com/ricocc/"
+		"url": "https://github.com/iinswertzhou/"
 	},
 
 	{
         "id": 2,
 		"name": "Xiaohongshu",
-        "username": "ricouii",
+        "username": "bswl",
 		"image": "/assets/social/social-xiaohongshu.jpg",
 		"url": "https://www.xiaohongshu.com/user/profile/5f2b6903000000000101f51f"
 	},
@@ -18,7 +18,7 @@
     {
         "id": 3,
 		"name": "Twitter",
-        "username": "ricouii",
+        "username": "bswl",
 		"image": "/assets/social/social-twitter.jpg",
 		"url": "https://x.com/ricouii"
 	},
@@ -26,7 +26,7 @@
     {
         "id": 4,
 		"name": "Gumroad",
-        "username": "ricoui",
+        "username": "bswl",
 		"image": "/assets/social/social-gumroad.jpg",
 		"url": "https://ricoui.gumroad.com/"
 	},
@@ -34,7 +34,7 @@
     {
         "id": 5,
 		"name": "Behance",
-        "username": "ricoui",
+        "username": "bswl",
 		"image": "/assets/social/social-behance.jpg",
 		"url": "https://www.behance.net/ricoui"
 	},
@@ -42,7 +42,7 @@
     {
         "id": 6,
 		"name": "figma",
-        "username": "ricocc",
+        "username": "bswl",
 		"image": "/assets/social/social-figma.jpg",
 		"url": "https://www.figma.com/@ricocc",
         "isShow": false
@@ -51,7 +51,7 @@
     {
         "id": 7,
 		"name": "Dribbble",
-        "username": "ricoui",
+        "username": "bswl",
 		"image": "/assets/social/social-dribbble.jpg",
 		"url": "https://dribbble.com/ricoui"
 	},
@@ -59,9 +59,9 @@
     {
         "id": 8,
 		"name": "Email",
-        "username": "ricocc",
+        "username": "eason-zhou",
 		"image": "/assets/social/social-email.jpg",
-		"url": "mailto:ricocc@qq.com"
+		"url": "eason.hk975@gmail.com"
 	}
 
 
